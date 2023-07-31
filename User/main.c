@@ -2,7 +2,7 @@
 #include "Delay.h"
 #include "OLED.h"
 
-uint8_t i = 0x66;
+const uint8_t i = 0x66;
 int main(void)
 {
 	OLED_Init();
