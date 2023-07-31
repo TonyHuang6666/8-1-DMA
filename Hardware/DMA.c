@@ -1,6 +1,6 @@
 #include "stm32f10x.h"
 
-void DMA_Init(void)
+void DMA_Initilize(void)
 {
-    
+
 }

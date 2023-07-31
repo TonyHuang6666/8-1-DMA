@@ -1,4 +1,4 @@
-# CMSIS Build CMakeLists generated on 2023-07-31T15:03:21
+# CMSIS Build CMakeLists generated on 2023-07-31T15:26:53
 
 cmake_minimum_required(VERSION 3.22)
 
@@ -31,7 +31,7 @@ set(INC_PATHS
   "d:/OneDrive - email.szu.edu.cn/Codes/Github insiders/Examples/8-1 DMA/User"
   "d:/OneDrive - email.szu.edu.cn/Codes/Github insiders/Examples/8-1 DMA/System"
   "d:/OneDrive - email.szu.edu.cn/Codes/Github insiders/Examples/8-1 DMA/Hardware"
-  "C:/Users/Wendo/AppData/Local/arm/packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include"
+  "C:/Users/Wendo/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include"
 )
 
 set(AS_ARM_SRC_FILES
